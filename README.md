@@ -1,2 +1,1 @@
-
-	<center>Hola, Bienvenido</center>
+Hola, Bienvenido
