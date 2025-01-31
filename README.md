@@ -1,2 +1,2 @@
-## HOLA, BIENVENIDO. 👋
+<center> ## HOLA, BIENVENIDO. 👋 </center>
 
