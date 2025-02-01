@@ -3,19 +3,18 @@
 
   <h1 style="text-align: center;">¡Hola, soy JesusJM</h1>
 
-  <p style="text-align: center;">Bienvenido a mi repositorio de GitHub. Soy un desarrollador apasionado por la tecnología.</p>
+  <p style="text-align: center;">Bienvenido a mi repositorio de GitHub.</p>
 
   <!-- Sección de información -->
   <h2>👨‍💻 Sobre mí</h2>
-  <p>Soy [Tu Profesión], con experiencia en [Tecnologías o áreas que dominas]. Me encanta trabajar en proyectos de [tipos de proyectos o temas que te interesan], y siempre estoy abierto a colaborar y aprender de otros desarrolladores.</p>
+  <p>Soy Desarrollador web con experiencia en Frontend</p>
 
   <h3>🔧 Tecnologías que manejo:</h3>
   <ul>
-    <li>🌐 **Frontend**: HTML, CSS, JavaScript, React</li>
-    <li>🖥️ **Backend**: Node.js, Express, Python, Django</li>
-    <li>🗃️ **Bases de Datos**: MySQL, MongoDB, PostgreSQL</li>
-    <li>⚙️ **DevOps**: Docker, Kubernetes</li>
-    <li>🌍 **Otros**: Git, GitHub, APIs RESTful</li>
+    <li>🌐 Frontend: HTML, CSS, JavaScript</li>
+    <li>🖥️ Backend: Node.js, Python, PHP</li>
+    <li>🗃️ Bases de Datos: MySQL</li>
+  
   </ul>
 
   <h2>🚀 Mis Proyectos</h2>
