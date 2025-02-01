@@ -1,7 +1,7 @@
 <!-- Fondo de color o imagen de fondo -->
 <div style="background-color: #f4f4f9; padding: 30px; border-radius: 8px;">
 
-  <h1 style="text-align: center;">¡Hola, soy [Tu Nombre]! 👋</h1>
+  <h1 style="text-align: center;">¡Hola, soy JesusJM</h1>
 
   <p style="text-align: center;">Bienvenido a mi repositorio de GitHub. Soy un desarrollador apasionado por la tecnología.</p>
 
